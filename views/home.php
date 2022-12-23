@@ -14,7 +14,7 @@
     <!-- jQuery Google -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <title>Array com PHP</title>
+    <title>Busca  de filmes - Bem-vindo!</title>
 </head>
 <body>
     <div class="container" id="conteudo">
